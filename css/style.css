@@ -1,0 +1,10 @@
+body {
+    color: black;
+}
+
+.container-fluid{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    padding-top: 100px;
+}
